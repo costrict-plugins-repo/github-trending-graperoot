@@ -1,0 +1,11 @@
+{
+  "name": "graperoot",
+  "description": "Dual-graph code context engine — structural call graph + dependency graph for precise, token-efficient context retrieval",
+  "version": "3.8.66",
+  "author": {
+    "name": "Krishnakant"
+  },
+  "homepage": "https://pypi.org/project/graperoot/",
+  "repository": "https://github.com/kunal12203/graperoot-plugin",
+  "license": "Proprietary"
+}

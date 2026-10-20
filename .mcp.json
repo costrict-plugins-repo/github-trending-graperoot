@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "dual-graph": {
+      "command": "mcp-graph-server",
+      "args": [],
+      "env": {
+        "DUAL_GRAPH_PROJECT_ROOT": "${PROJECT_DIR}"
+      }
+    }
+  }
+}
